@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// 0000000000000000000000
+// 00
 // 000000
 Route::get('/', function () {
     return view('welcome');
